@@ -6,7 +6,7 @@ It lets the user set a time and plays a sound when the time is reached.
 ## Project Purpose
 This project was created to practice working with **Tkinter for GUI design**  
 and **time-based logic in Python**.
-
+> This project demonstrates the use of basic GUI components, real-time checks, and system sound alerts in Python.
 ## Features
 - Set a specific alarm time  
 - Beep sound notification when alarm rings  
@@ -26,9 +26,7 @@ and **time-based logic in Python**.
    - A **“WAKE UP”** message is displayed on the screen.  
 4. The user can stop or close the app after the alert.
 
-## Screenshot
-![Alarm Clock GUI](screenshots/alarm_ui.png)
-> This project demonstrates the use of basic GUI components, real-time checks, and system sound alerts in Python.
+
 
 ## Future Improvements
 - Add custom sound file support
