@@ -33,8 +33,4 @@ and **time-based logic in Python**.
 - Add a date & time picker
 - Show popup alert when the alarm rings
 
-## Author
-**Manar Salem**  
-Programming and Database Student  
 
-[https://github.com/Manars](https://github.com/Manars)
